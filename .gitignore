@@ -1,0 +1,32 @@
+.settings/
+node_modules/
+.vscode/
+.gradle/
+.vscode/
+application.yaml
+.project
+.AGENTS.md
+
+# Vite / frontend build
+dist/
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+db/
